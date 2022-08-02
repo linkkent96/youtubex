@@ -1,0 +1,26 @@
+{   
+  "name": "JV-IT Extension",
+  "description": "JV-IT Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/icon-small.png",
+      "32": "/images/icon-small.png",
+      "48": "/images/icon-small.png",
+      "128": "/images/icon-small.png"
+    }
+  },
+  "icon-smalls": {
+    "16": "/images/icon-small.png",
+    "32": "/images/icon-small.png",
+    "48": "/images/icon-small.png",
+    "128": "/images/icon-small.png"
+  },
+  "options_page": "options.html"
+}
