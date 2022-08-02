@@ -1,6 +1,6 @@
 {   
-  "name": "JV-IT Extension",
-  "description": "JV-IT Extension",
+  "name": "Youtube Extension",
+  "description": "Youtube Extension",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
